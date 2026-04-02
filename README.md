@@ -30,7 +30,7 @@ a real mining environment.
 | EfficientNet-B0 (fine-tuned) | **93.88%** | **0.9268** |
 | Santos et al. (2020) benchmark | 89.75% | 0.8773   |
 
-EfficientNet-B0 fully fine-tuned beat the published benchmark on both metrics.
+The fully fine-tuned EfficientNet-B0 model exceeded the published benchmark on both accuracy and F1 score.
 
 ---
 
